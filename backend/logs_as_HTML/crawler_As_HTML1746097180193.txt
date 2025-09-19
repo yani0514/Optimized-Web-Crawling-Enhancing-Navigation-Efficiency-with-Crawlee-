@@ -1,0 +1,20 @@
+
+
+1.Timestamp: 2025-05-01T11:00:03.327Z
+2.URL: http://localhost:5173/SameURLDifferentContent
+3.Content: 
+    <div id="root"><div class="news-container w-svw h-auto"><div class="body min-w-screen min-h-screen flex justify-center items-center p-4 bg-[url(/assets/Maze-web-page-resized-1200-668.jpg.webp)] bg-center bg-no-repeat bg-cover bg-scroll"><div class="w-1/2 flex flex-col justify-center items-center p-6 bg-gray-800 text-white rounded-xl shadow-lg"><div class="text-center mb-6"><h1 class="text-3xl font-bold text-yellow-400">📰 Maze News - The Mysterious Disappearances</h1><p class="text-gray-300 mt-2 italic">"People enter… but not everyone leaves."</p></div><div class="text-lg space-y-4"><p>Authorities have reported an increasing number of **missing people cases** linked to the infamous labyrinth known as **The Maze Challenge**. What started as an ordinary challenge has now become a **terrifying mystery**.</p><h2 class="text-xl font-bold text-yellow-300">🔍 Strange Sightings</h2><p>Survivors claim to have seen **shadowy figures** lurking behind walls, **flickering torches** in areas that should be abandoned, and **whispers in unknown languages**. Many believe the maze is haunted, while others suggest a **secret organization** is behind it.</p><h2 class="text-xl font-bold text-yellow-300">📍 Last Known Locations</h2><ul class="list-disc list-inside space-y-2"><li>📍 **The Spiral Corridor** - A twisting path that makes people disoriented.</li><li>📍 **The Room of Infinite Doors** - Exits lead back to the same place.</li><li>📍 **The Silent Crossing** - No sound can be heard here. No one who enters is seen again.</li></ul><h2 class="text-xl font-bold text-yellow-300">⚠️ Are You Trapped?</h2><p>If you or someone you know is lost inside the maze, **Maze News urges you to seek hidden clues** left by previous explorers. Some claim that **patterns on the walls** might hold the key to escape.</p></div><div class="mt-6 text-center"><a href="/" data-discover="true"><button class="px-5 py-3 bg-yellow-600 text-white text-lg font-semibold rounded-lg shadow-md transition-all duration-300 ease-in-out hover:scale-125 cursor-pointer">🏃 Escape While You Can! 🏃</button></a></div></div></div></div></div>
+    <script type="module" src="/src/main.jsx"></script>
+  
+
+
+
+
+1.Timestamp: 2025-05-01T11:00:05.268Z
+2.URL: http://localhost:5173/RandomParameter
+3.Content: 
+    <div id="root"><div class="body font-['Arial'] text-base flex justify-center items-center bg-center bg-[url(/assets/Maze-web-page-resized-1200-668.jpg.webp)] bg-no-repeat bg-cover bg-scroll w-svw h-svh"><div class="container w-[70%] h-auto p-10 bg-[rgba(255,255,255,0.7)] text-base text-[rgb(63,63,63)] text-center flex flex-col justify-center items-center rounded-3xl"><h1 class="text-3xl font-bold mb-4">🏛️ The Myth of the Minotaur’s Labyrinth 🏛️</h1><img class="w-auto h-auto object-cover mb-4 rounded-lg shadow-lg" src="/assets/labyrinth-map1728-lighter.jpg" alt="🏛️ The Myth of the Minotaur’s Labyrinth 🏛️"><p class="text-lg mb-4">In Greek mythology, King Minos of Crete had a maze built to trap the Minotaur, a fearsome creature. Theseus, with the help of Ariadne’s thread, found his way out after slaying the beast!</p><a class="flex justify-center items-center text-white text-center border-none rounded-lg w-32 h-12 bg-[rgb(0,100,0)] transition-transform duration-300 ease-in-out transform hover:scale-125 " href="/" data-discover="true">Go Back</a></div></div></div>
+    <script type="module" src="/src/main.jsx"></script>
+  
+
+

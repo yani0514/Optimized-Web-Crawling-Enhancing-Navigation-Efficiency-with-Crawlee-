@@ -1,0 +1,9 @@
+{
+	"id": "wwhepHQdHfh1qI0",
+	"json": "{\"id\":\"wwhepHQdHfh1qI0\",\"url\":\"http://localhost:5173/DoorA\",\"loadedUrl\":\"http://localhost:5173/DoorA\",\"uniqueKey\":\"http://localhost:5173/DoorA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2025-05-04T11:15:10.024Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:5173/DoorA",
+	"url": "http://localhost:5173/DoorA"
+}

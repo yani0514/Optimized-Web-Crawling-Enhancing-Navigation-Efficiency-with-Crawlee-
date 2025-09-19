@@ -1,0 +1,9 @@
+{
+	"id": "27veK1GzIlX5KJr",
+	"json": "{\"id\":\"27veK1GzIlX5KJr\",\"url\":\"http://localhost:5173/RandomParameter\",\"loadedUrl\":\"http://localhost:5173/RandomParameter\",\"uniqueKey\":\"http://localhost:5173/RandomParameter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2025-05-04T11:14:53.165Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:5173/RandomParameter",
+	"url": "http://localhost:5173/RandomParameter"
+}

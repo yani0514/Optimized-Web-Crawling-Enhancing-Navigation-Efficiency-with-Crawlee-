@@ -1,0 +1,9 @@
+{
+	"id": "zE8jAZ3sBNtdELm",
+	"json": "{\"id\":\"zE8jAZ3sBNtdELm\",\"url\":\"http://localhost:5173/DifferentURLSameContent\",\"loadedUrl\":\"http://localhost:5173/DifferentURLSameContent\",\"uniqueKey\":\"http://localhost:5173/DifferentURLSameContent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2025-05-04T11:14:46.729Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:5173/DifferentURLSameContent",
+	"url": "http://localhost:5173/DifferentURLSameContent"
+}

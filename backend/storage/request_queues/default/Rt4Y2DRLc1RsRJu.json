@@ -1,0 +1,9 @@
+{
+	"id": "Rt4Y2DRLc1RsRJu",
+	"json": "{\"id\":\"Rt4Y2DRLc1RsRJu\",\"url\":\"http://localhost:5173/Rules\",\"loadedUrl\":\"http://localhost:5173/Rules\",\"uniqueKey\":\"http://localhost:5173/Rules\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2025-05-04T11:14:38.656Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:5173/Rules",
+	"url": "http://localhost:5173/Rules"
+}
