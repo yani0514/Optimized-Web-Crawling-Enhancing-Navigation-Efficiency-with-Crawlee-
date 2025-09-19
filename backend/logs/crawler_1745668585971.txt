@@ -1,0 +1,99 @@
+
+
+1.Timestamp: 2025-04-26T11:56:29.177Z
+2.URL: http://localhost:5173/
+3.Content:
+Welcome to the Maze Challenge!
+
+Can you find your way out? You can start your maze bellow:
+
+Click the button bellow to begin your journey!
+
+Start Maze
+Rules
+
+
+
+1.Timestamp: 2025-04-26T11:56:29.485Z
+2.URL: http://localhost:5173/PathChoice
+3.Content:
+⛓You have reached a fork in the Maze⛓
+
+⚠️⚠️⚠️Choose wisely! Some paths lead forward, others will trap you.⚠️⚠️⚠️
+
+Which way will you take?
+
+Back to Start
+Path A
+Path B
+Path C
+
+
+
+1.Timestamp: 2025-04-26T11:56:29.510Z
+2.URL: http://localhost:5173/Rules
+3.Content:
+🌀 Rules of the Maze Challenge 🌀
+
+Dare to enter the maze? Read carefully. Your survival depends on it.
+
+📜 The Rules 📜
+🚀 Your goal is to escape the maze. 🚀
+⚠️ Some paths lead to infinite traps, others may confuse you. ⚠️
+🔎 Clues exist, but deception lurks around every corner. 🔎
+🕵️ Click wisely - some buttons may lead to wrong paths. 🕵️
+🪄 Be aware! The purpose of the Maze Challenge is to trick you. 🪄
+Back to Start
+🕰️ Current Time 🕰️
+
+1:56:29 PM
+
+
+
+1.Timestamp: 2025-04-26T11:56:29.740Z
+2.URL: http://localhost:5173/DifferentURLSameContent
+3.Content:
+🚪 The Mysterious Door Challenge 🚪
+
+There are two exactly the same doors in front of you. Only one of them is the right on... or is it?
+
+Which door will you choose?
+
+Door A
+Door B
+
+
+
+1.Timestamp: 2025-04-26T11:56:29.774Z
+2.URL: http://localhost:5173/RandomParameter
+3.Content:
+🌽 Corn Mazes 🌽
+
+Popular in autumn festivals, corn mazes are temporary mazes created in cornfields. They are fun for families and often include puzzles or hidden checkpoints.
+
+Go Back
+
+
+
+1.Timestamp: 2025-04-26T11:56:29.995Z
+2.URL: http://localhost:5173/SameURLDifferentContent
+3.Content:
+Click to Reveal
+
+Click the button below to generate more content.
+
+Generate Content
+
+
+
+1.Timestamp: 2025-04-26T11:56:30.010Z
+2.URL: http://localhost:5173/DoorA
+3.Content:
+🕵️ You Have Entered the Secret Room 🕵️
+
+🌀 This place feels... strangely familiar. Reality is an illusion.🌀
+
+🗝️ Click the button below to investigate the mystery 🗝️
+
+🔎 Investigate the Mystery 🔎
+
